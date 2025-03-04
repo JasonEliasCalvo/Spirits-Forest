@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: f790dd63cbd765b49b26cbd9803e5856
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5194158804740871186
+    second: Plantas Hojas_0
+  - first:
+      213: -453534731015113641
+    second: Plantas Hojas_1
+  - first:
+      213: 8100992536279869383
+    second: Plantas Hojas_2
+  - first:
+      213: 4613357952308953659
+    second: Plantas Hojas_3
+  - first:
+      213: 2644662293565953260
+    second: Plantas Hojas_4
+  - first:
+      213: -7706800643520064125
+    second: Plantas Hojas_5
+  - first:
+      213: 2295675619450002234
+    second: Plantas Hojas_6
+  - first:
+      213: 4390631415910098633
+    second: Plantas Hojas_7
+  - first:
+      213: -5284757106905995531
+    second: Plantas Hojas_8
+  - first:
+      213: 2673366332069747066
+    second: Plantas Hojas_9
+  - first:
+      213: 1791924540850657668
+    second: Plantas Hojas_10
+  - first:
+      213: 5909709863606303020
+    second: Plantas Hojas_11
+  - first:
+      213: 1358937904536476466
+    second: Plantas Hojas_12
+  - first:
+      213: 3700758399693686933
+    second: Plantas Hojas_13
+  - first:
+      213: 2385652698937824599
+    second: Plantas Hojas_14
+  - first:
+      213: -2079045031955079993
+    second: Plantas Hojas_15
+  - first:
+      213: -405090717659019155
+    second: Plantas Hojas_16
+  - first:
+      213: 3199770055771103658
+    second: Plantas Hojas_17
+  - first:
+      213: 5477511063654451497
+    second: Plantas Hojas_18
+  - first:
+      213: -3327124109237952669
+    second: Plantas Hojas_19
+  - first:
+      213: 4920013562655531085
+    second: Plantas Hojas_20
+  - first:
+      213: 2814672466537806609
+    second: Plantas Hojas_21
+  - first:
+      213: 4414682770845700585
+    second: Plantas Hojas_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plantas Hojas_0
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 1372
+        width: 116
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2141c8fb9eb551840800000000000000
+      internalID: 5194158804740871186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_1
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1234
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754ba88a098b4b9f0800000000000000
+      internalID: -453534731015113641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_2
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1261
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c76d057ac18c6070800000000000000
+      internalID: 8100992536279869383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_3
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1228
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3249117d90f50040800000000000000
+      internalID: 4613357952308953659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_4
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1138
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce45ede085ab3b420800000000000000
+      internalID: 2644662293565953260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 974
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3851c38a5a1fb0590800000000000000
+      internalID: -7706800643520064125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 989
+        width: 64
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b97d810d0ebdf10800000000000000
+      internalID: 2295675619450002234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_7
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1030
+        width: 143
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6edfc9208aeec30800000000000000
+      internalID: 4390631415910098633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_8
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 964
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6a5ae3965c8a6b0800000000000000
+      internalID: -5284757106905995531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_9
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 888
+        width: 126
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a799181d384b91520800000000000000
+      internalID: 2673366332069747066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_10
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 932
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48955b930e13ed810800000000000000
+      internalID: 1791924540850657668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_11
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 721
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2930e95fc1830250800000000000000
+      internalID: 5909709863606303020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_12
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 692
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bd5bff2daebd210800000000000000
+      internalID: 1358937904536476466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_13
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 670
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5980945382cbb5330800000000000000
+      internalID: 3700758399693686933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_14
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 744
+        width: 114
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75514ad6d7a8b1120800000000000000
+      internalID: 2385652698937824599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 572
+        width: 126
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccd6460f8fb523e0800000000000000
+      internalID: -2079045031955079993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_16
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 582
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6840287324d06af0800000000000000
+      internalID: -405090717659019155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_17
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 535
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa12b21a9edd76c20800000000000000
+      internalID: 3199770055771103658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_18
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 611
+        width: 66
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92945629a47040c40800000000000000
+      internalID: 5477511063654451497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_19
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 612
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fdb31204ea3d1d0800000000000000
+      internalID: -3327124109237952669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_20
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 302
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40ef249446674440800000000000000
+      internalID: 4920013562655531085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_21
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 135
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bfe0f02b9bf0720800000000000000
+      internalID: 2814672466537806609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plantas Hojas_22
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 0
+        width: 88
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e19b40179a144d30800000000000000
+      internalID: 4414682770845700585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Plantas Hojas_0: 5194158804740871186
+      Plantas Hojas_1: -453534731015113641
+      Plantas Hojas_10: 1791924540850657668
+      Plantas Hojas_11: 5909709863606303020
+      Plantas Hojas_12: 1358937904536476466
+      Plantas Hojas_13: 3700758399693686933
+      Plantas Hojas_14: 2385652698937824599
+      Plantas Hojas_15: -2079045031955079993
+      Plantas Hojas_16: -405090717659019155
+      Plantas Hojas_17: 3199770055771103658
+      Plantas Hojas_18: 5477511063654451497
+      Plantas Hojas_19: -3327124109237952669
+      Plantas Hojas_2: 8100992536279869383
+      Plantas Hojas_20: 4920013562655531085
+      Plantas Hojas_21: 2814672466537806609
+      Plantas Hojas_22: 4414682770845700585
+      Plantas Hojas_3: 4613357952308953659
+      Plantas Hojas_4: 2644662293565953260
+      Plantas Hojas_5: -7706800643520064125
+      Plantas Hojas_6: 2295675619450002234
+      Plantas Hojas_7: 4390631415910098633
+      Plantas Hojas_8: -5284757106905995531
+      Plantas Hojas_9: 2673366332069747066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

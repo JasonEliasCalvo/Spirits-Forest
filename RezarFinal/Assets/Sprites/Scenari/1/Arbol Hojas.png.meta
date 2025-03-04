@@ -1,0 +1,2027 @@
+fileFormatVersion: 2
+guid: c7e34ced6c9c67143b207d0f58e3cebc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1393179323202821898
+    second: Arbol Hojas_0
+  - first:
+      213: 4477587476670456786
+    second: Arbol Hojas_1
+  - first:
+      213: 70674566214577652
+    second: Arbol Hojas_2
+  - first:
+      213: 2744242316157639448
+    second: Arbol Hojas_3
+  - first:
+      213: 3623155673760982547
+    second: Arbol Hojas_4
+  - first:
+      213: -1532788709994852485
+    second: Arbol Hojas_5
+  - first:
+      213: 4780630758147031541
+    second: Arbol Hojas_6
+  - first:
+      213: 2937016982182215125
+    second: Arbol Hojas_7
+  - first:
+      213: -8178510098620314786
+    second: Arbol Hojas_8
+  - first:
+      213: -7867728868486429070
+    second: Arbol Hojas_9
+  - first:
+      213: -1572277230555473424
+    second: Arbol Hojas_10
+  - first:
+      213: -5329462498370678205
+    second: Arbol Hojas_11
+  - first:
+      213: -7838147050556807371
+    second: Arbol Hojas_12
+  - first:
+      213: 3444856054084357442
+    second: Arbol Hojas_13
+  - first:
+      213: -7165212039375287489
+    second: Arbol Hojas_14
+  - first:
+      213: -5912540423368641487
+    second: Arbol Hojas_15
+  - first:
+      213: 7307893653424546714
+    second: Arbol Hojas_16
+  - first:
+      213: -3489500264179037410
+    second: Arbol Hojas_17
+  - first:
+      213: 8146951097100511763
+    second: Arbol Hojas_18
+  - first:
+      213: 7739155125282576576
+    second: Arbol Hojas_19
+  - first:
+      213: -519786569184167480
+    second: Arbol Hojas_20
+  - first:
+      213: -3411480359854788765
+    second: Arbol Hojas_21
+  - first:
+      213: 4692241480344591761
+    second: Arbol Hojas_22
+  - first:
+      213: -3928021894067898110
+    second: Arbol Hojas_23
+  - first:
+      213: 1124082837687723712
+    second: Arbol Hojas_24
+  - first:
+      213: -3886150806403912946
+    second: Arbol Hojas_25
+  - first:
+      213: 73539084356363117
+    second: Arbol Hojas_26
+  - first:
+      213: -9162634409185415240
+    second: Arbol Hojas_27
+  - first:
+      213: -6718835884587031033
+    second: Arbol Hojas_28
+  - first:
+      213: 4902379598383795533
+    second: Arbol Hojas_29
+  - first:
+      213: 1587121177233031923
+    second: Arbol Hojas_30
+  - first:
+      213: 462324064960379448
+    second: Arbol Hojas_31
+  - first:
+      213: -4932152070399674524
+    second: Arbol Hojas_32
+  - first:
+      213: -7095536293743701505
+    second: Arbol Hojas_33
+  - first:
+      213: -3172329409218441880
+    second: Arbol Hojas_34
+  - first:
+      213: -4504597075336382614
+    second: Arbol Hojas_35
+  - first:
+      213: -8248488001338487548
+    second: Arbol Hojas_36
+  - first:
+      213: -3890511143649477335
+    second: Arbol Hojas_37
+  - first:
+      213: -3557767870539101697
+    second: Arbol Hojas_38
+  - first:
+      213: 8899540620196248594
+    second: Arbol Hojas_39
+  - first:
+      213: -8011845872714256529
+    second: Arbol Hojas_40
+  - first:
+      213: -815580681448434434
+    second: Arbol Hojas_41
+  - first:
+      213: -4919423454758619105
+    second: Arbol Hojas_42
+  - first:
+      213: 7985426508955311226
+    second: Arbol Hojas_43
+  - first:
+      213: 1846788317047368653
+    second: Arbol Hojas_44
+  - first:
+      213: 2029139995837846855
+    second: Arbol Hojas_45
+  - first:
+      213: -2649235671241652274
+    second: Arbol Hojas_46
+  - first:
+      213: -5068560251679631009
+    second: Arbol Hojas_47
+  - first:
+      213: 4172175743967732256
+    second: Arbol Hojas_48
+  - first:
+      213: -5529861818734734131
+    second: Arbol Hojas_49
+  - first:
+      213: -7801992923956606741
+    second: Arbol Hojas_50
+  - first:
+      213: 1997760809625061727
+    second: Arbol Hojas_51
+  - first:
+      213: 8342254914949805313
+    second: Arbol Hojas_52
+  - first:
+      213: -8655074766929393040
+    second: Arbol Hojas_53
+  - first:
+      213: -4148061267176808945
+    second: Arbol Hojas_54
+  - first:
+      213: -4242560259138058885
+    second: Arbol Hojas_55
+  - first:
+      213: -8185330283862566648
+    second: Arbol Hojas_56
+  - first:
+      213: -7026281179861696562
+    second: Arbol Hojas_57
+  - first:
+      213: 1395861391240464262
+    second: Arbol Hojas_58
+  - first:
+      213: -1303668547346163676
+    second: Arbol Hojas_59
+  - first:
+      213: -26401461696236348
+    second: Arbol Hojas_60
+  - first:
+      213: 6062699270743281431
+    second: Arbol Hojas_61
+  - first:
+      213: -408462232572969301
+    second: Arbol Hojas_62
+  - first:
+      213: 1443073635418328805
+    second: Arbol Hojas_63
+  - first:
+      213: 1509798432423176916
+    second: Arbol Hojas_64
+  - first:
+      213: -8142039875852693259
+    second: Arbol Hojas_65
+  - first:
+      213: 123158138947991439
+    second: Arbol Hojas_66
+  - first:
+      213: 3223910988139264681
+    second: Arbol Hojas_67
+  - first:
+      213: 3896473228888989433
+    second: Arbol Hojas_68
+  - first:
+      213: 3371269706312633837
+    second: Arbol Hojas_69
+  - first:
+      213: -5690268080965263250
+    second: Arbol Hojas_70
+  - first:
+      213: -9065284424935880299
+    second: Arbol Hojas_71
+  - first:
+      213: -273497940531860459
+    second: Arbol Hojas_72
+  - first:
+      213: -7689925374847805893
+    second: Arbol Hojas_73
+  - first:
+      213: -148682464228833778
+    second: Arbol Hojas_74
+  - first:
+      213: 167219853614467245
+    second: Arbol Hojas_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arbol Hojas_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1410
+        width: 187
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f5ceb8631955310800000000000000
+      internalID: 1393179323202821898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1496
+        width: 187
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d32ea53616932e30800000000000000
+      internalID: 4477587476670456786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1234
+        width: 122
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdefddb4261bf000800000000000000
+      internalID: 70674566214577652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_3
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1381
+        width: 356
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bdb20d8d1851620800000000000000
+      internalID: 2744242316157639448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_4
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1314
+        width: 212
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e67493e8084230800000000000000
+      internalID: 3623155673760982547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_5
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1410
+        width: 136
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f07011ac07abae0800000000000000
+      internalID: -1532788709994852485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_6
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1250
+        width: 301
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f109ad7856385240800000000000000
+      internalID: 4780630758147031541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_7
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1470
+        width: 288
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddb242626162c820800000000000000
+      internalID: 2937016982182215125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_8
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1642
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b8acb9568108e80800000000000000
+      internalID: -8178510098620314786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_9
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1055
+        width: 614
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276c7c4774630d290800000000000000
+      internalID: -7867728868486429070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_10
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 1614
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f95e4860362e2ae0800000000000000
+      internalID: -1572277230555473424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_11
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1247
+        width: 468
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34299dc2812f906b0800000000000000
+      internalID: -5329462498370678205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_12
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1441
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537294a29ce493390800000000000000
+      internalID: -7838147050556807371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_13
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1471
+        width: 187
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d4d0e54569ecf20800000000000000
+      internalID: 3444856054084357442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_14
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1432
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b0fa4fc9d009c90800000000000000
+      internalID: -7165212039375287489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_15
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 915
+        width: 633
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13479f89fcf62fda0800000000000000
+      internalID: -5912540423368641487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1129
+        width: 167
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93a3b41f8ada6560800000000000000
+      internalID: 7307893653424546714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_17
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1346
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b0af57ffdc29fc0800000000000000
+      internalID: -3489500264179037410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_18
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1416
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aa721cbd8cf0170800000000000000
+      internalID: 8146951097100511763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1378
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c89c182590076b60800000000000000
+      internalID: 7739155125282576576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1374
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c932c88ed859c8f0800000000000000
+      internalID: -519786569184167480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_21
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1094
+        width: 190
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f22a000bcf7a0d0800000000000000
+      internalID: -3411480359854788765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_22
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1381
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dda4c04c03e1140800000000000000
+      internalID: 4692241480344591761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_23
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1247
+        width: 205
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209302e16ecdc79c0800000000000000
+      internalID: -3928021894067898110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_24
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 845
+        width: 330
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c66d7e926b899f00800000000000000
+      internalID: 1124082837687723712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_25
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1314
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b62b86e6e911ac0800000000000000
+      internalID: -3886150806403912946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1167
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d632b285863450100800000000000000
+      internalID: 73539084356363117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1190
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf6bb1fc88c7d080800000000000000
+      internalID: -9162634409185415240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_28
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 733
+        width: 251
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706ea036c56e1c2a0800000000000000
+      internalID: -6718835884587031033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_29
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1139
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dc9c35540c80440800000000000000
+      internalID: 4902379598383795533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_30
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1024
+        width: 295
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f289704d46960610800000000000000
+      internalID: 1587121177233031923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_31
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1113
+        width: 180
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83af31f99418a6600800000000000000
+      internalID: 462324064960379448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_32
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1212
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467be99d2d97d8bb0800000000000000
+      internalID: -4932152070399674524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_33
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1221
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1d388a557978d90800000000000000
+      internalID: -7095536293743701505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_34
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1212
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d8205c53f99f3d0800000000000000
+      internalID: -3172329409218441880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_35
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 842
+        width: 381
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67bf4c83d47c71c0800000000000000
+      internalID: -4504597075336382614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_36
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 832
+        width: 487
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc52a7ddb778d80800000000000000
+      internalID: -8248488001338487548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_37
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 1167
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92df2184ab0220ac0800000000000000
+      internalID: -3890511143649477335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1030
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9083bb8f440aec0800000000000000
+      internalID: -3557767870539101697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1084
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cf4f2da05818b70800000000000000
+      internalID: 8899540620196248594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_40
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 950
+        width: 113
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fefa990a430d090800000000000000
+      internalID: -8011845872714256529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_41
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 956
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4589cf0b97ea4f0800000000000000
+      internalID: -815580681448434434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_42
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 906
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18336f9e62babbb0800000000000000
+      internalID: -4919423454758619105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_43
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 858
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cd44ee91fe1de60800000000000000
+      internalID: 7985426508955311226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_44
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 845
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb23fc803c11a910800000000000000
+      internalID: 1846788317047368653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_45
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 813
+        width: 119
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745d37b4314f82c10800000000000000
+      internalID: 2029139995837846855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_46
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 889
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7095971360c3bd0800000000000000
+      internalID: -2649235671241652274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_47
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 864
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5998f33e4bd8a9b0800000000000000
+      internalID: -5068560251679631009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_48
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 857
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022a2b7ebbb86e930800000000000000
+      internalID: 4172175743967732256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_49
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 876
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4125d69fbf143b0800000000000000
+      internalID: -5529861818734734131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_50
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 797
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8847bb5c0c9b390800000000000000
+      internalID: -7801992923956606741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_51
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 829
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5906eb2fd879bb10800000000000000
+      internalID: 1997760809625061727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_52
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 825
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f65f55a4a5c370800000000000000
+      internalID: 8342254914949805313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_53
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 790
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a0ab42b5ff2e780800000000000000
+      internalID: -8655074766929393040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_54
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 806
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e9e5f31402f66c0800000000000000
+      internalID: -4148061267176808945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_55
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 778
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7503ef1ce56f15c0800000000000000
+      internalID: -4242560259138058885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_56
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 794
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809df1d797dd76e80800000000000000
+      internalID: -8185330283862566648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_57
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 707
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfb4566e72ad7e90800000000000000
+      internalID: -7026281179861696562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_58
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 749
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687029c2a881f5310800000000000000
+      internalID: 1395861391240464262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_59
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 692
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42815920d5078ede0800000000000000
+      internalID: -1303668547346163676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 698
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47b0ea20432aff0800000000000000
+      internalID: -26401461696236348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_61
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 711
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f4cac7dd8032450800000000000000
+      internalID: 6062699270743281431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_62
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 666
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae335b73c9d45af0800000000000000
+      internalID: -408462232572969301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_63
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 704
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee47df53d3d60410800000000000000
+      internalID: 1443073635418328805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 634
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da660fcca1e3f410800000000000000
+      internalID: 1509798432423176916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_65
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 643
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f01cbc0fd9a10f80800000000000000
+      internalID: -8142039875852693259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_66
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 586
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f877133ccab85b100800000000000000
+      internalID: 123158138947991439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_67
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 589
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf48376f1adbc20800000000000000
+      internalID: 3223910988139264681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_68
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 567
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe5fbcd1cd031630800000000000000
+      internalID: 3896473228888989433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_69
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 519
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedccc6afe729ce20800000000000000
+      internalID: 3371269706312633837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_70
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 541
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e606255245b1801b0800000000000000
+      internalID: -5690268080965263250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_71
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 462
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599c0df68d3a13280800000000000000
+      internalID: -9065284424935880299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_72
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 494
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c2cc77217543cf0800000000000000
+      internalID: -273497940531860459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_73
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 449
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b361fe25d95e74590800000000000000
+      internalID: -7689925374847805893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_74
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 292
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e068f472616cfedf0800000000000000
+      internalID: -148682464228833778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol Hojas_75
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 0
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da845162295125200800000000000000
+      internalID: 167219853614467245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arbol Hojas_0: 1393179323202821898
+      Arbol Hojas_1: 4477587476670456786
+      Arbol Hojas_10: -1572277230555473424
+      Arbol Hojas_11: -5329462498370678205
+      Arbol Hojas_12: -7838147050556807371
+      Arbol Hojas_13: 3444856054084357442
+      Arbol Hojas_14: -7165212039375287489
+      Arbol Hojas_15: -5912540423368641487
+      Arbol Hojas_16: 7307893653424546714
+      Arbol Hojas_17: -3489500264179037410
+      Arbol Hojas_18: 8146951097100511763
+      Arbol Hojas_19: 7739155125282576576
+      Arbol Hojas_2: 70674566214577652
+      Arbol Hojas_20: -519786569184167480
+      Arbol Hojas_21: -3411480359854788765
+      Arbol Hojas_22: 4692241480344591761
+      Arbol Hojas_23: -3928021894067898110
+      Arbol Hojas_24: 1124082837687723712
+      Arbol Hojas_25: -3886150806403912946
+      Arbol Hojas_26: 73539084356363117
+      Arbol Hojas_27: -9162634409185415240
+      Arbol Hojas_28: -6718835884587031033
+      Arbol Hojas_29: 4902379598383795533
+      Arbol Hojas_3: 2744242316157639448
+      Arbol Hojas_30: 1587121177233031923
+      Arbol Hojas_31: 462324064960379448
+      Arbol Hojas_32: -4932152070399674524
+      Arbol Hojas_33: -7095536293743701505
+      Arbol Hojas_34: -3172329409218441880
+      Arbol Hojas_35: -4504597075336382614
+      Arbol Hojas_36: -8248488001338487548
+      Arbol Hojas_37: -3890511143649477335
+      Arbol Hojas_38: -3557767870539101697
+      Arbol Hojas_39: 8899540620196248594
+      Arbol Hojas_4: 3623155673760982547
+      Arbol Hojas_40: -8011845872714256529
+      Arbol Hojas_41: -815580681448434434
+      Arbol Hojas_42: -4919423454758619105
+      Arbol Hojas_43: 7985426508955311226
+      Arbol Hojas_44: 1846788317047368653
+      Arbol Hojas_45: 2029139995837846855
+      Arbol Hojas_46: -2649235671241652274
+      Arbol Hojas_47: -5068560251679631009
+      Arbol Hojas_48: 4172175743967732256
+      Arbol Hojas_49: -5529861818734734131
+      Arbol Hojas_5: -1532788709994852485
+      Arbol Hojas_50: -7801992923956606741
+      Arbol Hojas_51: 1997760809625061727
+      Arbol Hojas_52: 8342254914949805313
+      Arbol Hojas_53: -8655074766929393040
+      Arbol Hojas_54: -4148061267176808945
+      Arbol Hojas_55: -4242560259138058885
+      Arbol Hojas_56: -8185330283862566648
+      Arbol Hojas_57: -7026281179861696562
+      Arbol Hojas_58: 1395861391240464262
+      Arbol Hojas_59: -1303668547346163676
+      Arbol Hojas_6: 4780630758147031541
+      Arbol Hojas_60: -26401461696236348
+      Arbol Hojas_61: 6062699270743281431
+      Arbol Hojas_62: -408462232572969301
+      Arbol Hojas_63: 1443073635418328805
+      Arbol Hojas_64: 1509798432423176916
+      Arbol Hojas_65: -8142039875852693259
+      Arbol Hojas_66: 123158138947991439
+      Arbol Hojas_67: 3223910988139264681
+      Arbol Hojas_68: 3896473228888989433
+      Arbol Hojas_69: 3371269706312633837
+      Arbol Hojas_7: 2937016982182215125
+      Arbol Hojas_70: -5690268080965263250
+      Arbol Hojas_71: -9065284424935880299
+      Arbol Hojas_72: -273497940531860459
+      Arbol Hojas_73: -7689925374847805893
+      Arbol Hojas_74: -148682464228833778
+      Arbol Hojas_75: 167219853614467245
+      Arbol Hojas_8: -8178510098620314786
+      Arbol Hojas_9: -7867728868486429070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
